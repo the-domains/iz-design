@@ -1,0 +1,28 @@
+name: iz-design
+favicon: null
+layout_spectrum: 0.6697366700973362
+typography_spectrum: 0.9965341340284795
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6148846403229982
+  lightness: 0.042635741643607616
+  saturation: 0.20529588731005788
+  rhythmicContrast: 0.3080094556789845
+purpose: []
