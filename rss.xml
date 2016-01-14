@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[iz-design]]></title>
         <description><![CDATA[iz-design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/iz-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 03:06:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jan 2016 03:07:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/iz-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Outdoor Spaces]]></title>
+            <description><![CDATA[<article><h1>Outdoor Spaces</h1><p>Kim's favourite outdoor spaces of 2015 http://flip.it/vG0c7</p><img src="http://www.desiretoinspire.net/storage/allpostphotos/RobinsonGrisaruc12f3f4389b8e2b4fe0f771fd33fb75b.jpg?__SQUARESPACE_CACHEVERSION=1451514300839"></article>]]></description>
+            <link>http://flip.it/vG0c7</link>
+            <guid isPermaLink="false">70ec8d1e-c0d7-4d6c-9ee1-aa38616f8f80</guid>
+            <pubDate>Thu, 14 Jan 2016 03:06:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Landscape Photographs]]></title>
             <description><![CDATA[<article><h1>Landscape Photographs</h1><p>Breathtaking Photos Celebrate the Wild Beauty of Patagonia's Untouched Landscapes http://flip.it/tEXlG</p><img src="http://api.ning.com:80/files/0k1PGPsOMFLQRUGZVkDdORqDF8tEjMVhJq8V1gaDZLWa5lSMHcNRWknXdgr6RHjOj7jJxxjPPN8AsPD*w4TLAubsZmpJdD05/andyleepatagoniadreams5.jpg"></article>]]></description>
-            <link>undefinedlandscape-photographs/index.html</link>
+            <link>https://thegrid.ai/iz-design/landscape-photographs/index.html</link>
             <guid isPermaLink="false">4b49dec3-f130-4695-8289-1cdc201a1e1d</guid>
             <pubDate>Thu, 14 Jan 2016 03:06:39 GMT</pubDate>
         </item>
